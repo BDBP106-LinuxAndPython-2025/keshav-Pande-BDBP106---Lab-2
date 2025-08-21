@@ -1,0 +1,14 @@
+#!/bin/bash
+echo -e "Tips for programming:"
+echo -e "\t1. Master the fundamentals"
+echo -e "\t2. Learn by doing"
+echo -e "\t3. Understand the \"why\""
+echo -e "\t4. Practice regularly"
+echo -e "\t5. Debug effectively"
+echo -e "\t6. Read and analyse code"
+echo -e "\t7. Break down problems"
+echo -e "\t8. Utilize resources"
+echo -e "\t9. Don't fear errors"
+echo -e "\t10. Start small and iterate"
+
+

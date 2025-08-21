@@ -1,0 +1,4 @@
+#!/bin/bash
+
+colors=(Black green red purple orange)
+echo "My favorite colors are: ${colors[@]}"
