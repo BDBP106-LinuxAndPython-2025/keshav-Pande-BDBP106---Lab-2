@@ -1,0 +1,15 @@
+.:
+total 48
+drwxrwxr-x 2 ibab ibab 4096 Aug 29 17:13 dhe
+-rw-rw-r-- 1 ibab ibab   54 Aug 29 17:14 filesnotpresent
+-rw-rw-r-- 1 ibab ibab    0 Aug 29 17:14 listoffiles
+-rw-rw-r-- 1 ibab ibab  723 Aug 29 15:10 nums.txt
+-rw-rw-r-- 1 ibab ibab  647 Aug 29 17:14 presentfiles
+-rw-rw-r-- 1 ibab ibab  105 Aug 28 16:24 Q1.sh
+-rw-rw-r-- 1 ibab ibab  429 Aug 29 14:51 Q2.sh
+-rw-rw-r-- 1 ibab ibab  194 Aug 29 14:45 Q3.sh
+-rw-rw-r-- 1 ibab ibab  151 Aug 29 15:18 Q4.sh
+-rw-rw-r-- 1 ibab ibab  256 Aug 29 17:05 Q5.sh
+-rw-rw-r-- 1 ibab ibab  180 Aug 29 17:10 Q6.sh
+-rw-rw-r-- 1 ibab ibab  556 Aug 29 17:13 Q7.sh
+-rw-rw-r-- 1 ibab ibab  632 Aug 29 17:14 Q8.sh
